@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Özer</h1>
 <h3 align="center">A passionate Machine Learning Engineer</h3>
 
+I'm a highly skilled MLOps Engineer with many years of expertise in designing and implementing machine learning solutions, predictive analytics, and data science applications. 
+Demonstrated proficiency in model explainability, including LLM models, and a solid understanding of machine
+learning algorithms for classification, regression, and clustering. Skilled in leveraging AWS cloud architectures. 
+Proficient in employing data-centric methodologies to extract insights and drive decision-making.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oozdal&label=Profile%20views&color=0e75b6&style=flat" alt="oozdal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oozdal" alt="oozdal" /></a> </p>
