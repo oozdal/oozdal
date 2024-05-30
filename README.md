@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Özer</h1>
 <h3 align="center">A passionate Machine Learning Engineer</h3>
 
-I'm a highly skilled MLOps Engineer with many years of expertise in designing and implementing machine learning solutions, predictive analytics, and data science applications. 
+I'm a ML Engineer & Data Scientist with many years of expertise in designing and implementing machine learning solutions, predictive analytics, and data science applications. 
 Demonstrated proficiency in model explainability, including LLM models, and  a robust comprehension of machine learning algorithms for classification, regression, and clustering, driving toward strategic business objectives.
 Skilled in leveraging AWS cloud architectures. 
 Proficient in employing data-centric methodologies to extract insights and drive decision-making.
