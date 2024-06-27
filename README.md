@@ -1,10 +1,21 @@
 <h1 align="center">Hi 👋, I'm Özer</h1>
-<h3 align="center">Aspiring Machine Learning Engineer</h3>
+<h3 align="center">Aspiring Machine Learning Engineer | Passionate About Building SaaS Solutions in Big Tech</h3>
 
-I'm a ML Engineer with many years of expertise in designing and implementing machine learning solutions, predictive analytics, and data science applications. 
-Demonstrated proficiency in model explainability, including LLM models, and  a robust comprehension of machine learning algorithms for classification, regression, and clustering, driving toward strategic business objectives.
-Skilled in leveraging AWS cloud architectures. 
-Proficient in employing data-centric methodologies to extract insights and drive decision-making.
+
+- I'm particularly interested in implementing machine learning web applications through Software as a Service (SaaS) solutions.
+
+- I enjoy developing machine learning pipelines that align with and advance strategic business objectives.
+
+- I excel at using data-centric methodologies to extract insights and drive decision-making.
+
+- I am passionate about the intersection of image processing and machine learning.
+
+- I'm working towards the AWS Developer Associate Exam.
+
+- These days, I'm self-teaching how to build machine learning models on edge devices.
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oozdal&label=Profile%20views&color=0e75b6&style=flat" alt="oozdal" /> </p>
 
