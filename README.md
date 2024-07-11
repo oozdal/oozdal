@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Özer</h1>
 <h3 align="center">Aspiring Machine Learning Engineer | Passionate About Building SaaS Solutions in Big Tech</h3>
 
-I spent over 2 years at ALS GoldSpot Discoveries, initially as a data scientist and later transitioning into an ML Engineer role. However, my responsibilities often diverged from traditional data science and ML engineering. Our main focus was on developing a SaaS product, where a more fitting title might have been Software Developer or MLOps Engineer. Day to day, I collaborated with my team to facilitate a fully automated ML platform for mineral exploration. This involved responding to Jira tickets assigned to me, resolving reported bugs, and implementing new features to enhance and support the product.
+I spent over 2 years at ALS GoldSpot Discoveries, initially as a data scientist and later transitioning into an ML Engineer role. However, my responsibilities often diverged from traditional data science and ML engineering. Our main focus was on developing a SaaS product, where a more fitting title might have been MLOps Engineer. Day to day, I collaborated with my team to facilitate a fully automated ML platform for mineral exploration. This involved responding to Jira tickets assigned to me, resolving reported bugs, and implementing new features to enhance and support the product.
 
 - Currently working as a Senior Data Scientist at Canadian Red Cross.
 
@@ -17,9 +17,7 @@ I spent over 2 years at ALS GoldSpot Discoveries, initially as a data scientist 
 
 - I'm working towards the AWS Developer Associate Exam.
 
-- These days, I'm self-teaching how to effectively build and monitor machine learning models on edge devices.
-
-- I love coding, even though some mornings I find myself coding with Lisa LeBlanc's "Aujourd'hui, ma vie c'est d'la marde". It's become my go-to debugging song :)
+- These days, I'm self-teaching how to effectively build and monitor embedded machine learning models on edge devices.
 
 - 📫 How to connect with me **www.linkedin.com/in/ozerozdal/**
 
