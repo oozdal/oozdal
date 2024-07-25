@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Özer</h1>
+<h1 align="center">Hi there 👋, I'm Özer</h1>
 <h3 align="center">Aspiring Machine Learning Engineer | Passionate About Building SaaS Solutions</h3>
+
+## About me
 
 - Spent over 2 years at [![ALS GoldSpot Discoveries](https://goldspot.ca/wp-content/uploads/2022/04/als-goldspot-discoveries-logo.png)](https://goldspot.ca/), initially as a data scientist and later transitioning into an ML Engineer role. However, my responsibilities often diverged from traditional data science and ML engineering. Our main focus was on developing several SaaS products, where a more fitting title might have been MLOps Engineer. Day to day, I collaborated with my team to facilitate a fully automated ML platform for mineral exploration. This involved responding to Jira tickets assigned to me, resolving reported bugs, and implementing new features to enhance and support for the SmartTarget™
  and SmartMap™ products.
@@ -22,7 +24,12 @@
 
 - These days, I'm self-teaching how to effectively build and monitor embedded machine learning models on edge devices.
 
-- 📫 How to connect with me [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ozerozdal)
+## Research Papers
+
+Explore my published research on [Inspire-HEP](https://inspirehep.net/authors/1602339?ui-citation-summary=true) and [Google-Scholar](https://scholar.google.ca/citations?user=GbhHFfsAAAAJ&hl=en)
+## Contact
+
+- 📫 Feel free to connect with me [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ozerozdal)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oozdal" alt="oozdal" /></a> </p>
 
