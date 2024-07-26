@@ -1,7 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Özer</h1>
-<h3 align="center">Aspiring Machine Learning Engineer | Passionate About Building SaaS Solutions</h3>
+<h3 align="center">Aspiring ML/MLOps Engineer | Passionate About Building SaaS Solutions</h3>
 
 ## About me
+
+- My mindset in three words: AUTOMATION, AUTOMATION, AUTOMATION. I don't care how great your idea is until it's fully implemented and automated.
 
 - Spent over 2 years at [![ALS GoldSpot Discoveries](https://goldspot.ca/wp-content/uploads/2022/04/als-goldspot-discoveries-logo.png)](https://goldspot.ca/), initially as a data scientist and later transitioning into an ML Engineer role. However, my responsibilities often diverged from traditional data science and ML engineering. Our main focus was on developing several SaaS products, where a more fitting title might have been MLOps Engineer. Day to day, I collaborated with my team to facilitate a fully automated ML platform for mineral exploration. This involved responding to Jira tickets assigned to me, resolving reported bugs, and implementing new features to enhance and support for the SmartTarget™
  and SmartMap™ products.
@@ -14,15 +16,31 @@
 
 - Particularly interested in implementing machine learning web applications through Software as a Service (SaaS) solutions.
 
-- Enjoy developing machine learning pipelines that align with and advance strategic business objectives.
+- Enjoy testing, deploying and monitoring ML models in production environments.
+
+- Also, enjoy developing machine learning pipelines that align with and advance strategic business objectives.
 
 - Excel at using data-centric methodologies to extract insights and drive decision-making.
 
-- Passionate about the intersection of image processing and machine learning.
+- Passionate about the intersection of image processing and machine learning, such as mineral exploration and autonomous vehicles.
 
 - I'm working towards the AWS Developer Associate Exam.
 
 - These days, I'm self-teaching how to effectively build and monitor embedded machine learning models on edge devices.
+
+## My Personal Projects
+
+Explore my some of personal projects on [DockerHub](https://hub.docker.com/u/ozerozdal) and [GitHub Packages](https://github.com/oozdal?tab=packages)
+
+- [Emotion Detection App](https://github.com/oozdal/Face-Emotion-Detection): A Streamlit application that predicts facial emotions from uploaded images. Up and running on [Railway](https://face-emotion-detection-production.up.railway.app/)
+
+- [Icebreaker App](https://github.com/oozdal/ice-breaker-app): The app finds the person on LinkedIn and provides a short summary about that person. Up and running on [Render](https://ice-breaker-app.onrender.com/)
+
+- [TodoList App](https://github.com/oozdal/to-do-list-api): Todo List App is a FullStack Application built using FastAPI and SQLAlchemy. Up and running on [Render](https://to-do-list-api-0o37.onrender.com/auth/)
+
+- [PDF Bundle](https://github.com/oozdal/pdf-bundle): PDF Bundle extracts text from PDFs in AWS S3, splits it, stores vector embeddings in Pinecone, and uses query vector embeddings based on cosine similarities for efficient search and retrieval. Up and running on [Railway](https://pdf-bundle-production.up.railway.app/docs).
+
+- [Heart Attack App](https://github.com/oozdal/heart-attack): Two-year Survival Predictor predicts patient survival rates following a heart attack. Up and running on [Render](https://heart-attack-j6dh.onrender.com/)
 
 ## Research Papers
 
