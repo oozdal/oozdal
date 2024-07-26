@@ -22,7 +22,7 @@ Welcome to my GitHub page!
 
 - Passionate about the intersection of image processing and machine learning, such as mineral exploration and autonomous vehicles.
 
-- Passionate about building scalable and reliable cloud infrastructures for SaaS solutions and currently preparing for the AWS Developer Associate Exam to further validate and enhance my DevOps skills.
+- Passionate about building scalable and reliable AWS cloud architectures and currently preparing for the AWS Developer Associate Exam to further validate and enhance my DevOps skills.
 
 - These days, I'm self-teaching how to effectively build and monitor embedded machine learning models on edge devices.
 
