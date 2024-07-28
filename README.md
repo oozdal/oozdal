@@ -5,9 +5,7 @@ Welcome to my GitHub page!
 
 ## About me
 
-- My mindset in three words: AUTOMATION, AUTOMATION, AUTOMATION.
-
-- Spent over 2 years at [![ALS GoldSpot Discoveries](https://goldspot.ca/wp-content/uploads/2022/04/als-goldspot-discoveries-logo.png)](https://goldspot.ca/), initially as a data scientist and later transitioning into an ML Engineer role. However, my responsibilities often diverged from traditional data science and ML engineering. Our main focus was on developing several SaaS products, where a more fitting title might have been MLOps Engineer. Day to day, I collaborated with my team to facilitate a fully automated ML platform for mineral exploration. This involved responding to Jira tickets assigned to me, resolving reported bugs, and implementing new features to enhance and support for the SmartTarget™
+- Spent over 2 years at [ALS GoldSpot Discoveries](https://goldspot.ca/), initially as a data scientist and later transitioning into an ML Engineer role. However, my responsibilities often diverged from traditional data science and ML engineering. Our main focus was on developing several SaaS products, where a more fitting title might have been MLOps Engineer. Day to day, I collaborated with my team to facilitate a fully automated ML platform for mineral exploration. This involved responding to Jira tickets assigned to me, resolving reported bugs, and implementing new features to enhance and support for the SmartTarget™
  and SmartMap™ products.
 
 - These days, my primary focus is on private repositories within the organization.
@@ -26,7 +24,7 @@ Welcome to my GitHub page!
 
 - These days, I'm self-teaching how to effectively build and monitor embedded machine learning models on edge devices.
 
-- Currently working as a Senior Data Scientist at [![Canadian Red Cross](https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Canadian_Red_Cross.svg/200px-Canadian_Red_Cross.svg.png)](https://www.redcross.ca/) using data-centric methodologies to extract insights and drive decision-making.
+- Currently working as a Senior Data Scientist at [Canadian Red Cross](https://www.redcross.ca/) using data-centric methodologies to extract insights and drive decision-making.
 
 ## My Personal Projects
 
@@ -36,7 +34,7 @@ Explore my some of personal projects on [DockerHub](https://hub.docker.com/u/oze
 
 - [Icebreaker App](https://github.com/oozdal/ice-breaker-app): The app finds the person on LinkedIn and provides a short summary about that person. Up and running on [Render](https://ice-breaker-app.onrender.com/)
 
-- [TodoList App](https://github.com/oozdal/to-do-list-api): Todo List App is a FullStack Application built using FastAPI and SQLAlchemy. Up and running on [Render](https://to-do-list-api-0o37.onrender.com/auth/)
+- [TodoList App](https://github.com/oozdal/to-do-list-api): Todo List App is a FullStack Application built using FastAPI and SQLAlchemy. Up and running on [Render](https://to-do-list-api-0o37.onrender.com/auth/) and [Railway](https://to-do-list-api-production-29ce.up.railway.app)
 
 - [PDF Bundle](https://github.com/oozdal/pdf-bundle): PDF Bundle extracts text from PDFs in AWS S3, splits it, stores vector embeddings in Pinecone, and uses query vector embeddings based on cosine similarities for efficient search and retrieval. Up and running on [Railway](https://pdf-bundle-production.up.railway.app/docs).
 
