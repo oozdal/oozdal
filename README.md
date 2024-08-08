@@ -1,12 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Özer</h1>
-<h3 align="center">Aspiring ML/MLOps Engineer | Passionate About Building SaaS Solutions</h3>
+<h3 align="center">Aspiring ML/MLOps Engineer | Passionate About Building SaaS ML/AI Product Design </h3>
 
 Welcome to my GitHub page!
 
 ## About me
 
 - Spent over 2 years at [ALS GoldSpot Discoveries](https://goldspot.ca/), initially as a data scientist and later transitioning into an ML Engineer role. However, my responsibilities often diverged from traditional data science and ML engineering. Our main focus was on developing several SaaS products, where a more fitting title might have been MLOps Engineer. Day to day, I collaborated with my team to facilitate a fully automated ML platform for mineral exploration. This involved responding to Jira tickets assigned to me, resolving reported bugs, and implementing new features to enhance and support for the SmartTarget™
- and SmartMap™ products.
+and SmartMap™ products.
+
+- Passionate about joining a collaborative ML software development team again where each member takes responsibility for distinct parts of the ML SaaS product, allowing me to focus on development, testing, deployment, monitoring and providing guidance to data scientists when necessary.
 
 - These days, my primary focus is on private repositories within the organization.
 
@@ -14,11 +16,11 @@ Welcome to my GitHub page!
 
 - Particularly interested in designing cutting-edge machine learning and AI platforms by leveraging Large Language Models (LLMs).
 
-- Enjoy testing, deploying and monitoring ML models in production environments.
+- Passionate about using GitHub Actions and CircleCI to create robust CI/CD pipelines, automating the deployment, testing, and monitoring of ML models in production environments.
 
 - Also, enjoy developing machine learning pipelines that align with and advance strategic business objectives.
 
-- Passionate about the intersection of image processing and machine learning, such as mineral exploration and autonomous vehicles.
+- Keen on exploring the intersection of image processing and machine learning, such as mineral exploration and autonomous vehicles.
 
 - Passionate about building scalable and reliable AWS cloud architectures and currently preparing for the AWS Developer Associate Exam to further validate and enhance my DevOps skills.
 
