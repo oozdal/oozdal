@@ -24,7 +24,7 @@ and SmartMap™ products.
 
 - Passionate about building scalable and reliable AWS cloud architectures and currently preparing for the AWS Developer Associate Exam to further validate and enhance my DevOps skills.
 
-- These days, I'm self-teaching how to effectively build and monitor embedded machine learning models on edge devices.
+- These days, I'm self-teaching how to effectively build and monitor embedded machine learning models on edge devices using the [Flower](https://flower.ai/) framework.
 
 - Currently working as a Senior Data Scientist at [Canadian Red Cross](https://www.redcross.ca/) using data-centric methodologies to extract insights and drive decision-making.
 
