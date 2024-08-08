@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Özer</h1>
-<h3 align="center">Aspiring ML/MLOps Engineer | Passionate About Building SaaS ML/AI Product Design </h3>
+<h3 align="center">Aspiring ML/MLOps Engineer | Passionate About Building ML/AI SaaS Products </h3>
 
 Welcome to my GitHub page!
 
