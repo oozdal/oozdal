@@ -8,7 +8,7 @@ Welcome to my GitHub page!
 - Spent over 2 years at [ALS GoldSpot Discoveries](https://goldspot.ca/), initially as a data scientist and later transitioning into an ML Engineer role. However, my responsibilities often diverged from traditional data science and ML engineering. Our main focus was on developing several SaaS products, where a more fitting title might have been MLOps Engineer. Day to day, I collaborated with my team to facilitate a fully automated ML platform for mineral exploration. This involved responding to Jira tickets assigned to me, resolving reported bugs, and implementing new features to enhance and support for the SmartTarget™
 and SmartMap™ products.
 
-- Passionate about joining a collaborative ML software development team again where each member takes responsibility for distinct parts of the ML SaaS product, allowing me to focus on development, testing, deployment, monitoring and providing guidance to data scientists when necessary.
+- Passionate about joining a collaborative ML software development team where each member takes responsibility for distinct parts of the ML SaaS product, allowing me to focus on development, testing, deployment and monitoring.
 
 - These days, my primary focus is on private repositories within the organization.
 
