@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Özer</h1>
-<h3 align="center">Aspiring ML/MLOps Engineer | Passionate About Building ML/AI SaaS Products </h3>
+<h3 align="center">Dedicated ML/MLOps Engineer | Passionate About Building ML/AI SaaS Products </h3>
 
 Welcome to my GitHub page!
 
@@ -8,7 +8,9 @@ Welcome to my GitHub page!
 - Spent over 2 years at [ALS GoldSpot Discoveries](https://goldspot.ca/), initially as a data scientist and later transitioning into an ML Engineer role. However, my responsibilities often diverged from traditional data science and ML engineering. Our main focus was on developing several SaaS products, where a more fitting title might have been MLOps Engineer. Day to day, I collaborated with my team to facilitate a fully automated ML platform for mineral exploration. This involved responding to Jira tickets assigned to me, resolving reported bugs, and implementing new features to enhance and support for the SmartTarget™
 and SmartMap™ products.
 
-- Currently working as a Senior Data Scientist at [Canadian Red Cross](https://www.redcross.ca/) using data-centric methodologies to extract insights and drive decision-making.
+- Spent over 4+ months as a Senior Data Scientist at [Canadian Red Cross](https://www.redcross.ca/) leveraging data-centric methods to extract insights and design a chatbot that streamlined staff access to clear answers and relevant links.
+
+- Currently, working as a Machine Learning Engineer at [Caylent](https://caylent.com/).
 
 - These days, my primary focus is on private repositories within the organization.
 
