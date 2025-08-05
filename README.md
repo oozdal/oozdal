@@ -10,7 +10,7 @@ and SmartMap™ products.
 
 - Spent over 4+ months as a Senior Data Scientist at [Canadian Red Cross](https://www.redcross.ca/) leveraging data-centric methods to extract insights and designing a Retrieval Augmented Generation (RAG) solution that makes it easy for staff to access clear answers and relevant links.
 
-- Currently, working as a Machine Learning Engineer at [Caylent](https://caylent.com/) and designing and implementing scalable MLOps architectures on AWS.
+- Currently, working as a Machine Learning Engineer at [Caylent](https://caylent.com/) and designing and implementing scalable cloud architectures on AWS.
 
 - These days, my primary focus is on private repositories within the organization.
 
@@ -18,13 +18,13 @@ and SmartMap™ products.
 
 - Particularly interested in designing cutting-edge machine learning and AI platforms by leveraging Large Language Models (LLMs).
 
-- Passionate about using GitHub Actions and GitLab CI/CD to create robust CI/CD pipelines, automating the deployment, testing, and monitoring of ML models in production environments.
+- Passionate about creating robust CI/CD pipelines, automating the deployment, testing, and monitoring of ML models in production environments.
 
 - Also, enjoy implementing SageMaker pipelines that align with and advance strategic business objectives.
 
 - Keen on exploring the intersection of image processing and machine learning, such as mineral exploration and autonomous vehicles.
 
-- Passionate about building scalable, reliable AWS cloud architectures and preparing for my second AWS certification—the AWS Developer Associate exam—to further validate and enhance my expertise.
+- Passionate about building scalable, reliable AWS cloud architectures and preparing for my second AWS certification: AWS Developer Associate exam—to further validate and enhance my expertise.
 
 - These days, I'm self-teaching how to effectively build and monitor embedded machine learning models on edge devices using the [Flower](https://flower.ai/) framework.
 
