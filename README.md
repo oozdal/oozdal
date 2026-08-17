@@ -21,13 +21,13 @@ My focus is AWS Cloud and Platform Engineering, with an emphasis on scalable, se
 
 <br>
 
-<a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/b138b5706a5d488088599dec657d73d2">
+<a href="https://www.credly.com/badges/dde23566-a7c3-4c79-b291-da7970877a92/linked_in_profile">
   <img src="https://img.shields.io/badge/HashiCorp-Certified%20Terraform%20Associate-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="HashiCorp Certified: Terraform Associate"/>
 </a>
 
 <br>
 
-<a href="https://www.credly.com/badges/dde23566-a7c3-4c79-b291-da7970877a92/linked_in_profile">
+<a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/b138b5706a5d488088599dec657d73d2">
   <img src="https://img.shields.io/badge/AWS-Certified%20Machine%20Learning%20Engineer%20%E2%80%93%20Associate-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Certified Machine Learning Engineer – Associate"/>
 </a>
 
