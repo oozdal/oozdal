@@ -15,8 +15,14 @@ My focus is AWS Cloud and Platform Engineering, with an emphasis on scalable, se
 
 ## Certifications
 
+<a href="https://www.credly.com/badges/cb68c6e0-e93f-4694-ac75-4bb7d38a3086/public_url">
+  <img src="https://img.shields.io/badge/AWS-Certified%20AI%20Business%20Strategist-C21878?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Certified AI Business Strategist"/>
+</a>
+
+<br>
+
 <a href="https://www.credly.com/badges/eaf3d263-4065-490c-a8d2-e7fbfd8417fe/public_url">
-  <img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20%E2%80%93%20Associate-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect – Associate"/>
+  <img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20%E2%80%93%20Associate-0073BB?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect – Associate"/>
 </a>
 
 <br>
@@ -28,7 +34,7 @@ My focus is AWS Cloud and Platform Engineering, with an emphasis on scalable, se
 <br>
 
 <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/b138b5706a5d488088599dec657d73d2">
-  <img src="https://img.shields.io/badge/AWS-Certified%20Machine%20Learning%20Engineer%20%E2%80%93%20Associate-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Certified Machine Learning Engineer – Associate"/>
+  <img src="https://img.shields.io/badge/AWS-Certified%20Machine%20Learning%20Engineer%20%E2%80%93%20Associate-0073BB?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Certified Machine Learning Engineer – Associate"/>
 </a>
 
 
