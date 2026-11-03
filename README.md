@@ -36,8 +36,11 @@ My focus is AWS Cloud and Platform Engineering, with an emphasis on scalable, se
 
 <br>
 
-<a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/b138b5706a5d488088599dec657d73d2">
+<a href="https://www.credly.com/badges/62c51ce9-70fd-409f-b1b9-aa6e6f66aa0b">
   <img src="https://img.shields.io/badge/AWS-Certified%20Machine%20Learning%20Engineer%20%E2%80%93%20Associate-0073BB?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Certified Machine Learning Engineer – Associate"/>
+</a>
+<a href="https://www.credly.com/badges/8be1471f-a7ed-4539-91a6-1a51729ba68f/linked_in_profile">
+  <img src="https://img.shields.io/badge/Early%20Adopter-0073BB?style=flat-square" alt="Early Adopter"/>
 </a>
 
 
