@@ -18,6 +18,9 @@ My focus is AWS Cloud and Platform Engineering, with an emphasis on scalable, se
 <a href="https://www.credly.com/badges/cb68c6e0-e93f-4694-ac75-4bb7d38a3086/public_url">
   <img src="https://img.shields.io/badge/AWS-Certified%20AI%20Business%20Strategist-C21878?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Certified AI Business Strategist"/>
 </a>
+<a href="https://www.credly.com/badges/af6cd1e6-c31a-46c5-ab0a-4d3660709295">
+  <img src="https://img.shields.io/badge/Early%20Adopter-C21878?style=flat-square" alt="Early Adopter"/>
+</a>
 
 <br>
 
